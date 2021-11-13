@@ -1,0 +1,24 @@
+/*CSS GOOGLE FONTS */
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+/*Smooth Scroll FUNCION CSS OK*/
+html {
+  scroll-behavior: smooth;
+}
+
+.svg {
+  width: 2.125em;
+  height: 2.125em;
+}
+
+header {
+  background: url(../img/carousel1.jpg) no-repeat center;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.header .navbar {
+  background-color: transparent !important;
+}
